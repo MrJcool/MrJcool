@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning back end and front end development.
 - 💞️ I’m looking to collaborate on any and all back end development works.
 - 📫 You can reach me at:
-        email: jayechsg109@gmail.com
+        email: jayeshsg109@gmail.com
         phone: +91 8459883425
       
 
